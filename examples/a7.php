@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Array problem -199
+ * Array problem 7
  * 
  * Create an array in tabular format where each row will have at-most 7 column and balance the column values vertically incremental way 
  * Used array-functions:
